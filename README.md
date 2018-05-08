@@ -16,3 +16,7 @@ The project folder should contain the following:
 2-helper.py
 3-data folder which contain the vgg folder and the data_road folder(from kitti road dataset)
 
+Description:
+the project will take a no. of images(kiiti dataset) then it will train on these images and learn to identify the roads,
+then it will take the images and label the pixels of a road in images using a Fully Convolutional Network,
+and output a saved images with the road labeled.
