@@ -16,6 +16,3 @@ The project folder should contain the following:
 2-helper.py
 3-data folder which contain the vgg folder and the data_road folder(from kitti road dataset)
 
-Description:
-The project should take the road images in the kitti dataset and train the computer on it to know what the road is,
-then take the road images identify the road and label the road by drawing a colour on it.
